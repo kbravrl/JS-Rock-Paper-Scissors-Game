@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+p {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    font-size: 3rem;
+    margin: 0 .5rem;
+    padding: 0.5rem 1rem;
+    background-color: blueviolet;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 3.s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+#rock {
+    background-color: red;
+}
+
+#paper {
+    background-color: blue;
+}
+
+#scissors {
+    background-color: green;
+}
+
+#user-score {
+    color: rgb(78, 78, 192);
+}
+
+#computer-score {
+    color: rgb(175, 61, 61);
+}
+
+
