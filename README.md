@@ -9,3 +9,5 @@ The game displays the result and updates the scores.
 - Player and computer choices are compared.
 - Scores for wins and losses are calculated and displayed.
 - Results and updated scores are shown on the screen.
+  
+![screen shot](https://github.com/user-attachments/assets/a8112b91-0b88-4727-b94c-283a433fc044)
