@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# JS-Rock-Paper-Scissors-Game
 
 This project is a JavaScript application that lets you play the classic Rock Paper Scissors game in the browser.
 Players can choose between "Rock", "Paper", or "Scissors", and the game will compare the player's choice with the computer's randomly chosen move.
